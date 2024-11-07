@@ -1,6 +1,17 @@
 # Mental Wealth Academy (MWA)
 
-## Inspiration & Problem Statement
+## Digital Libraries are vulnerable to shutdown. 
+
+Z Library, Ron DeSantis, etc. 
+Libraries only have limited copies of audiobooks and limited resources. 
+There's no way to actually own books, and Amazon & other companies have taken over with **unfair subscription models.**
+There's no way to onboard the next 100,000 users in Web3 with strictly video games, NFTs, and consumer products. We created an individual ERP Platform curated to help onboard mass adoption by 74% by creating value in a with books and rich resources available online, in a decentralized manner
+
+Mental Wealth Academy is the academic knowledge layer of the project and utilizes a focus on connecting resources and a rich ecosystem while building a community of DAO consensus players to participate.
+
+Mental Wealth Academy is a full-scale full-circle ERP educational platform.
+
+## Problem Statement
 
 Access to knowledge and public resources has historically been restricted by centralization, limited access, and corporate-controlled platforms. Public libraries often face shutdowns, limited copies, or corporate competition, while valuable datasets, especially those related to education, science, and climate, are at risk of censorship and reduced accessibility. Current platforms prioritize profit over public service, leaving information isolated and inaccessible to those who need it most.
 
