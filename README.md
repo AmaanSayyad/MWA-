@@ -117,17 +117,3 @@ npx hardhat run scripts/deploy.js --network mainnet
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Links
-
-- [GitHub Repository](https://github.com/AmaanSayyad/MWA-)
-- [Project Documentation](https://github.com/AmaanSayyad/MWA-/wiki)
-
-## 📞 Contact
-
-- **Developer**: Amaan Sayyad
-- **GitHub**: [@AmaanSayyad](https://github.com/AmaanSayyad)
-
----
-
-Built with ❤️ using modern web technologies and blockchain innovation.
